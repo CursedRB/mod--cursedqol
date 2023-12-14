@@ -1,0 +1,2 @@
+Horizon-Main: net.minecraft.src.CursedQoL
+Manifest-Version: 1.0
